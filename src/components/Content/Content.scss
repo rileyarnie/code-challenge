@@ -1,0 +1,32 @@
+.content {
+  padding: 2rem;
+}
+
+.selectJoke {
+  margin-top: 2rem;
+}
+
+.card {
+  width: 85%;
+  padding: 0.7rem;
+  margin-top: 5rem;
+  display: flex;
+  align-items: center;
+  img {
+    margin-right: 1rem;
+  }
+}
+
+.jokeButton {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background: rgb(6, 6, 218);
+  color: white;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid rgb(6, 6, 218);
+  cursor: pointer;
+  &:focus {
+    outline: none;
+  }
+}

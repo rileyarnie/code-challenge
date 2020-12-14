@@ -1,0 +1,16 @@
+.navbar {
+  color: #fff;
+  background: #0665e2;
+  padding: 1.2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar h3 {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=Navbar.css.map */
